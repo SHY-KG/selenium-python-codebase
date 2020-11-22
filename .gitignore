@@ -130,3 +130,9 @@ dmypy.json
 
 # lock
 Pipfile.lock
+
+# screenshots
+screenshots/*
+
+# .vscode
+.vscode/*
